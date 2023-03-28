@@ -1,4 +1,4 @@
-# awesome-3d-printing-bitcoin
+# Awesome 3D Printing Bitcoin
 A collection of links to FOSS projects that use 3D printing as part of the build.
 
 PR your links here
