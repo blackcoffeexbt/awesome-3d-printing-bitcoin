@@ -8,9 +8,11 @@ PR your links here
 + [Specter DIY](https://github.com/cryptoadvance/specter-diy)
 + [LNbits HWW](https://github.com/lnbits/hardware-wallet)
 
-# Other projects
+# LNbits
 + [LNbits LNPoS](https://github.com/lnbits/lnpos)
 + [LNbits nostr signing device](https://github.com/lnbits/nostr-signing-device)
+
+# Other Stuff
 + [Lightning ATM](https://github.com/21isenough/LightningATM)
 + [Honeybadger wall print](https://www.printables.com/model/127656-honey-badger/files)
 + [Various things from CryptoCloaks](https://www.cryptocloaks.com/file-factory)
